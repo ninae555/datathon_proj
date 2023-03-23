@@ -1,2 +1,2 @@
 # Datathon Project
-## Water Purity 
+## Water Purity prediction
